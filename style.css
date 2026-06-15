@@ -111,7 +111,7 @@ body {
     .botao{
         display: flex;
     }
-    .botao:last-child{
+    .botao:first-child{
         border-radius: 40px 0 0 0;
     }
     .border:last-child{
